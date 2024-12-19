@@ -1,0 +1,7 @@
+beautifulsoup4
+langchain
+langchain_community
+langchain-core
+langchain-groq
+faiss-cpu
+beautifulsoup4
