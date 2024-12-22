@@ -4,4 +4,5 @@ langchain_community
 langchain-core
 langchain-groq
 faiss-cpu
-beautifulsoup4
+sentence_transformers
+tiktoken
