@@ -6,3 +6,6 @@ langchain-groq
 faiss-cpu
 sentence_transformers
 tiktoken
+ragatouille
+chromadb
+faiss-cpu
